@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushishah224&label=Profile%20views&color=0e75b6&style=flat" alt="khushishah224" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development , Django , Linux**
+- 🌱 I’m currently learning **MERN stack , Django , Linux**
 
 - 📫 How to reach me **khushijayeshshah@gmail.com**
 
