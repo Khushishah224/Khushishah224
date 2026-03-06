@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Shah</h1>
-<h3 align="center">A Software Enthusiast , College Second Year, CSE Student</h3>
+<h3 align="center">A Software Enthusiast , Last Year, CSE Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushishah224&label=Profile%20views&color=0e75b6&style=flat" alt="khushishah224" /> </p>
 
